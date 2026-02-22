@@ -15,7 +15,7 @@ and then on your browser just open localhost:8080 to access the dashboard, there
 
 ## Preview
 
-Here is what it looked like if you curios
+Here is what it looked like if you curious
 
 ![Preview Screenshot](./preview_screenshot.png)
 
